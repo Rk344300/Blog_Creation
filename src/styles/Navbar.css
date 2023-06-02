@@ -1,0 +1,15 @@
+#list {
+  list-style-type: none;
+  display: flex;
+}
+#list li a {
+  flex-direction: column;
+  padding-right: 10px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: large;
+}
+
+#list li a:hover {
+  color: brown;
+}
