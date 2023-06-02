@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blog_Creation/static/css/main.b60b4ab3.css",
+    "main.js": "/Blog_Creation/static/js/main.434ef0c3.js",
+    "index.html": "/Blog_Creation/index.html",
+    "main.b60b4ab3.css.map": "/Blog_Creation/static/css/main.b60b4ab3.css.map",
+    "main.434ef0c3.js.map": "/Blog_Creation/static/js/main.434ef0c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60b4ab3.css",
+    "static/js/main.434ef0c3.js"
+  ]
+}
